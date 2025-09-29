@@ -1,0 +1,52 @@
+[
+  {
+    "id": "u1",
+    "ieeeId": "std001@ieee.local",
+    "email": "john.smith@email.com",
+    "fullName": "John Smith",
+    "branch": "Computer Engineering",
+    "year": "3rd Year",
+    "registrations": ["e1", "e3"],
+    "volunteerAssignments": ["e1"]
+  },
+  {
+    "id": "u2",
+    "ieeeId": "std002@ieee.local",
+    "email": "sarah.jones@email.com",
+    "fullName": "Sarah Jones",
+    "branch": "Electronics Engineering",
+    "year": "2nd Year",
+    "registrations": ["e2", "e4"],
+    "volunteerAssignments": []
+  },
+  {
+    "id": "u3",
+    "ieeeId": "std003@ieee.local",
+    "email": "mike.wilson@email.com",
+    "fullName": "Mike Wilson",
+    "branch": "Electrical Engineering",
+    "year": "4th Year",
+    "registrations": ["e1", "e2", "e5"],
+    "volunteerAssignments": ["e2", "e5"]
+  },
+  {
+    "id": "u4",
+    "ieeeId": "std004@ieee.local",
+    "email": "emma.davis@email.com",
+    "fullName": "Emma Davis",
+    "branch": "Information Technology",
+    "year": "1st Year",
+    "registrations": ["e3", "e6"],
+    "volunteerAssignments": []
+  },
+  {
+    "id": "u5",
+    "ieeeId": "std005@ieee.local",
+    "email": "alex.brown@email.com",
+    "fullName": "Alex Brown",
+    "branch": "Computer Science",
+    "year": "3rd Year",
+    "registrations": ["e1", "e4", "e6"],
+    "volunteerAssignments": ["e6"]
+  }
+]

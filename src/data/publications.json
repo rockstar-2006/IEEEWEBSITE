@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "title": "Machine Learning Applications in Smart Grid Optimization",
+    "authors": ["Rajesh Kumar", "Dr. Priya Sharma", "Vikram Singh"],
+    "journal": "IEEE Transactions on Smart Grid",
+    "year": "2024",
+    "abstract": "This paper presents novel machine learning approaches for optimizing smart grid operations, focusing on demand forecasting and energy distribution efficiency.",
+    "downloadLink": "#"
+  },
+  {
+    "id": "p2",
+    "title": "IoT-Based Environmental Monitoring System for Smart Cities",
+    "authors": ["Arjun Patel", "Sneha Reddy", "Dr. Kumar Sharma"],
+    "journal": "IEEE Internet of Things Journal",
+    "year": "2024",
+    "abstract": "A comprehensive IoT framework for real-time environmental monitoring in urban areas, integrating multiple sensor networks and cloud computing.",
+    "downloadLink": "#"
+  },
+  {
+    "id": "p3",
+    "title": "5G Network Optimization Using AI-Driven Resource Allocation",
+    "authors": ["Priya Sharma", "Vikram Singh"],
+    "journal": "IEEE Communications Magazine",
+    "year": "2023",
+    "abstract": "Research on artificial intelligence techniques for optimizing resource allocation in 5G networks to improve performance and reduce latency.",
+    "downloadLink": "#"
+  },
+  {
+    "id": "p4",
+    "title": "Sustainable Technology Solutions for Rural Development",
+    "authors": ["Sneha Reddy", "Rajesh Kumar", "Dr. Arjun Patel"],
+    "journal": "IEEE Technology and Society Magazine",
+    "year": "2023",
+    "abstract": "Analysis of sustainable technology implementations in rural communities, focusing on renewable energy and digital inclusion initiatives.",
+    "downloadLink": "#"
+  }
+]

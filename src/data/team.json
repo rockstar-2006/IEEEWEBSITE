@@ -1,0 +1,57 @@
+[
+  {
+    "id": "t1",
+    "name": "Rajesh Kumar",
+    "position": "Chair",
+    "image": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg",
+    "bio": "Final year Computer Engineering student with passion for artificial intelligence and robotics. Leading the chapter towards innovative technical initiatives.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/rajeshkumar",
+      "email": "rajesh@ieee.local"
+    }
+  },
+  {
+    "id": "t2",
+    "name": "Priya Sharma",
+    "position": "Vice Chair",
+    "image": "https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg",
+    "bio": "Electronics Engineering student specializing in VLSI design. Coordinating technical workshops and industry collaborations.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/priyasharma",
+      "email": "priya@ieee.local"
+    }
+  },
+  {
+    "id": "t3",
+    "name": "Arjun Patel",
+    "position": "Secretary",
+    "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg",
+    "bio": "Information Technology student with expertise in web development and database management. Managing chapter communications and documentation.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/arjunpatel",
+      "email": "arjun@ieee.local"
+    }
+  },
+  {
+    "id": "t4",
+    "name": "Sneha Reddy",
+    "position": "Treasurer",
+    "image": "https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg",
+    "bio": "Electrical Engineering student focusing on power systems and renewable energy. Managing chapter finances and budget planning.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/snehareddy",
+      "email": "sneha@ieee.local"
+    }
+  },
+  {
+    "id": "t5",
+    "name": "Vikram Singh",
+    "position": "Technical Lead",
+    "image": "https://images.pexels.com/photos/2182975/pexels-photo-2182975.jpeg",
+    "bio": "Computer Science student specializing in machine learning and data science. Organizing technical events and research initiatives.",
+    "social": {
+      "linkedin": "https://linkedin.com/in/vikramsingh",
+      "email": "vikram@ieee.local"
+    }
+  }
+]

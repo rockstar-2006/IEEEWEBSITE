@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a1",
+    "title": "IEEE Student Branch Award",
+    "description": "Recognized as the Outstanding Student Branch of the Year 2024 for exceptional technical activities and community engagement.",
+    "date": "2024-11-15",
+    "image": "https://images.pexels.com/photos/3184357/pexels-photo-3184357.jpeg",
+    "category": "Recognition"
+  },
+  {
+    "id": "a2",
+    "title": "National Hackathon Winners",
+    "description": "Our team secured first place in the National IEEE Computer Society Hackathon with an innovative IoT-based smart city solution.",
+    "date": "2024-10-20",
+    "image": "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg",
+    "category": "Competition"
+  },
+  {
+    "id": "a3",
+    "title": "Community Impact Project",
+    "description": "Successfully completed a digital literacy program reaching over 500 underprivileged students in local communities.",
+    "date": "2024-09-05",
+    "image": "https://images.pexels.com/photos/8197562/pexels-photo-8197562.jpeg",
+    "category": "Service"
+  },
+  {
+    "id": "a4",
+    "title": "Research Publication",
+    "description": "Multiple student members published research papers in IEEE conferences on topics ranging from AI to sustainable technology.",
+    "date": "2024-08-12",
+    "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg",
+    "category": "Research"
+  },
+  {
+    "id": "a5",
+    "title": "Industry Partnership",
+    "description": "Established strategic partnerships with leading tech companies for internships and collaborative projects.",
+    "date": "2024-07-18",
+    "image": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg",
+    "category": "Partnership"
+  }
+]
